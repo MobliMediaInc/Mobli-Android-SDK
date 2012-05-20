@@ -38,6 +38,6 @@ mobli.request(…);
 
 Report Issues/Bugs
 ===============
-[Bugs](devsupport@mobli.com)
+[Bugs](mailto:devsupport@mobli.com)
 
 [Questions](http://stackoverflow.com/questions/tagged/mobli)
